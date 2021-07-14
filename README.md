@@ -1,16 +1,22 @@
-### Hi there 👋
+# 🧑🏻‍💻 Olá, eu sou Vaniel
 
-<!--
-**Vanieltk/Vanieltk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Me chamo Vaniel Timm Koschier, sou estudante de Analise e Desenvolvimento de Sistemas no SENAC de Pelotas, buscando sempre evoluir dia após dia e assim alcançar ótimos patamares.
 
-Here are some ideas to get you started:
+### 💻 Tecnologias que uso/estudo
+Diariamente utilizo essas tecnologias para desenvolver meus projetos e fazer exercícios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+### 📚 Tecnologias que pretendo estudar
+Pretendo estudar essas tecnologias com o tempo e estou aberto a estudos de tecnologias da empresa que eu esteja trabalhando.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VUE.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### 🤳🏻 Meus contatos
+Podemos entrar em contato e conversarmos sobre qualquer assunto e fazer/manter um bom network.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/vanieltimmkoschier)
