@@ -10,10 +10,7 @@ Diariamente utilizo essas tecnologias para desenvolver meus projetos e fazer exe
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VUE.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-<!-- 
-### 📚 Tecnologias que pretendo estudar
-Pretendo estudar essas tecnologias com o tempo e estou aberto a estudos de tecnologias da empresa que eu esteja trabalhando.
- -->
+
 
 
 ### 🤳🏻 Meu contato
