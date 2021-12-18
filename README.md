@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Olá, eu sou o Vaniel
 
-✨ Me chamo Vaniel Timm Koschier, sou estudante de Analise e Desenvolvimento de Sistemas no SENAC de Pelotas, buscando sempre evoluir dia após dia e assim alcançar ótimos patamares.
+✨ Me chamo Vaniel Timm Koschier, sou estudante de Analise e Desenvolvimento de Sistemas no SENAC de Pelotas, buscando sempre evoluir dia após dia e assim alcançar meus objetivos.
 
 ### 💻 Tecnologias que uso/estudo
 Diariamente utilizo essas tecnologias para desenvolver meus projetos e fazer exercícios.
